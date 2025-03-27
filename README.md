@@ -2,7 +2,11 @@
 
 # Get started
 
-Print event numbers from int slice
+There are 2 main packages to use:
+- **slicex** - tools for manipulating slices
+- **mapx** - tools for manipulating maps
+
+Print even numbers from int slice
 
 ```go
 package main
